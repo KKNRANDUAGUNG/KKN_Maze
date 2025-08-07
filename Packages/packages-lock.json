@@ -1,7 +1,10 @@
 {
   "dependencies": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 1,
